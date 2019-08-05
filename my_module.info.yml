@@ -1,0 +1,5 @@
+name: Test Module
+description: Testing all hook and other things that i can do with drupal module development. This module will be in git.
+type: module
+core: 8.x
+package: custom
